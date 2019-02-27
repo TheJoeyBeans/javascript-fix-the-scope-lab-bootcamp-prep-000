@@ -22,4 +22,5 @@ var funkyFunction = function() {
   }
 }
 
-var funkyFunction = theFunk
+var theFunk = "FUNKY!"
+
